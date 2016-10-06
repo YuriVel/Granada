@@ -13,7 +13,7 @@ use Exception;
  * directly. It is used internally by the Model base
  * class.
  */
-class WrapperD extends ORM {
+class Wrapper extends ORM {
 
     /**
      * The wrapped find_one and find_many classes will
